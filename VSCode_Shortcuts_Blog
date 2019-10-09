@@ -1,0 +1,57 @@
+A brief overview of the shortcuts and tricks built into VS Code that have made my life easier.
+
+## __Original Computerists: What d' I Gotta be to be O.C.__
+
+The original computers and computerists would know little of the thing we call a moust today. Before the modern day touch screen display we've all become so comfortable with today there was a thing called the trackpad, before that a little nub in the middle of your keyboard. Before that? A ball lodged into a stationary ergonomic block on your desk and Before that was the mouse made famous by not working on reflective flat surfaces. Before all that was the mouse that was distantly related to braces in its ability to store bits of things you've been eating for weeks. Before that a wooden block with two wheels on its bottom and a red button on top. Before that the one that catches food but as a military secret. Before that though!? Nothing. The original computerists were masters of the keyboard never lifting their hands off the desk. Computers are built around commands and mouses are really just tools that through a few hardwired levels of abstraction send out the commands that computers crave. As such everything you do on a computer should be doable from the keyboard. To my knowledge this isn't so much the case anymore but I'm no keyboard Wizard. I do know though that when grinding out some wicked functions, using the keyboard shortcuts and commands to their fullest makes life easier. 
+
+I use the text editor Visual Studio Code developed by Microsoft. Because Microsoft people do a lot with computers (some of the original computerists) and as such they built some handy shortcuts into their text editor.
+[Link to Install](https://code.visualstudio.com/#home-terms)
+
+__*____Disclaimer____*__ I use a mac so for anyone running a Windows or Linux OS use the `ctrl` key in place of the `⌘`. Also I get it O.C. has already been coined.   
+
+## __First Things First - Files From the Command Line__
+
+So I believe this tidbit is included in some aspect of the setup of VS Code but VS code has some easily implemented bash commands. Instead of having to set up a bash/shell command to open files in VS code yourself, using the `⇧⌘P` then typing `shell command` into the search bar  and selecting the first suggestion will add the command to your bash commands. Now typing `code` from any file or directory in the terminal will open that file or directory in VS code.
+
+Now that VS code is easily accessible here are in-editor commands.
+Cheat Sheets:
+– [Mac](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png) – [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) – [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) – 
+
+## __Shortcuts: Slices of Success__
+
+### Quick Keyboard Reference List
+
++ `⌘`: command key
++ `⌥`: alt key
++ `⌃`: control key
++ `⇧`: shift key
++ `←``→``↑``↓`: arrow keys
++ `esc`: escape key
+
+
+### General
++ Quick Search/Open File: `⌘P`
++ Jump to Matching Bracket: `⇧⌘/`
++ Show General Search: `⇧⌘F`
++ Yes there is a *Zen Mode*: `⌘KZ` (`esc` to exit)
+
+### Line Traversal: Live-Coding Keyboard Wizardry  
++ Move Line Up/Down: `⌥↑` / `⌥↓`
++ Go-to Beginning/End: `fn←` / `fn→` or `⌘↑` / `⌘↓`
++ Delete Line: `⇧⌘K`
++ Go-to Line: `⌃G`
++ Go-to File (aka "Quick Search/Open File): `⌘P`
++ Go-to Symbol: `⇧⌘O`
++ Show All Symbols: `⌘T`
+
+### Integrated Terminal: The All-in-One-Place Place
+
++ Show Terminal: `^``
++ New Terminal: `^⇧``
+
+### That's it That's all...For Now
+
+I can see your gears working...ok maybe not but all of these awesome built in shortcuts and commands will at least get you admission the WagHertz School of Keyboard Whizkidery. From there you have to... you know ... kill a guy – maybe a few – to make it to the top, but at least this'll get you there. 
+
+## __Till Next Time!__
+To *thaat* point, Good Luck! 
